@@ -5,5 +5,4 @@ import fake_data
 
 data = fake_data.get_manager_data() 
 
-print(data[1])
 
