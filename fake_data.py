@@ -1,25 +1,38 @@
 
-manager_data = dict(
+manager = dict(
+	Name = "John Larson")
+
+team_building = dict(
 	Communication = 2,
 	Possitive_Conflict = 2, 
 	Psych_Safety = 3,
 	Engagement = 2,
-	Accountability = 1,
+	Accountability = 1)
+
+execution = dict(
 	Clarity = 2,
 	Delegation = 2,
 	Strategic_Reward = 2,
-	Input = 3,
+	Input = 3)
+
+leadership = dict(
 	Purpose = 3,
 	Trust = 3,
-	Compassion = 1,
+	Compassion = 1)
+
+people_development = dict(
 	Fair_Reward = 2,
 	Personal_Growth = 3,
 	Deep_Work = 2,
-	Feedback = 2,
+	Feedback = 2)
+
+misc = dict(
 	Micromanagement = 2,
 	Burn_Out = 2,
 	Employee_Opinion = 1,
-	Well_Being = 1,
+	Well_Being = 1)
+
+overview = dict(
 	Turnover_Risk = 1,
 	Leadership = 4,
 	Execution = 2, 

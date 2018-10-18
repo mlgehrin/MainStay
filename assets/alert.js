@@ -1,1 +1,1 @@
-alert('If you see this alert, then your custom JavaScript script has run!')
+alert('Alert notifying that formatting assetts are being used properly')
