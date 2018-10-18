@@ -95,7 +95,7 @@ app.layout = html.Div([ #is an overarching Div necessary?
 		])
 
 	], 
-	style={'marginLeft':'6px'})
+	style={'marginLeft':'8px', 'marginRight':'8px', 'marginTop':'8px'})
 
 
 ### CALLBACK FUNCTIONS ###
