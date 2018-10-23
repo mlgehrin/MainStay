@@ -4,7 +4,7 @@ manager = dict(
 
 team_building = dict(
 	Communication = 2,
-	Possitive_Conflict = 2, 
+	Positive_Conflict = 2, 
 	Psych_Safety = 3,
 	Engagement = 2,
 	Accountability = 1)
